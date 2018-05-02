@@ -23,3 +23,5 @@
 /dist/
 /nbdist/
 /.nb-gradle/
+src/main/java/com/saubhik/rest/controller/WelcomeController.java
+*.java

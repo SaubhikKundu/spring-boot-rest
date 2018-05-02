@@ -6,7 +6,6 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.ResponseBody;
 
-import com.saubhik.beans.Department;
 import com.saubhik.beans.Welcome;
 import com.saubhik.services.DepartmentService;
 
